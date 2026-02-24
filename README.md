@@ -1,16 +1,22 @@
-## Hi there 👋
+## 🙋 ABOUT ME
+### PROFILE
+- Co-founder of [poypoy](https://poypoy.net)
+- Aichi University, Japan (Faculty of Business Administration)
 
-<!--
-**oyaei/oyaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### LANGUAGES
+- Dart/Flutter
+- HTML/CSS
+- JavaScript/TypeScript
+- PHP
+- Python
 
-Here are some ideas to get you started:
+## 🔗 LINKS
+### WEBSITES
+- [Personal Site (oyaiz.com)](https://oyaiz.com)
+- [poypoy (poypoy.net)](https://poypoy.net)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### SNS
+- [X(Twitter) (@oyaiz_8a)](https://x.com/oyaiz_8a)
+- [Instagram (@oyaiz_8a)](https://www.instagram.com/oyaiz_8a)
+- [YouTube (@oyaiz_8a)](https://www.youtube.com/@oyaiz_8a)
+- [Reddit (u/oyaiz)](https://www.reddit.com/user/oyaiz/)
